@@ -1,0 +1,17 @@
+# Directories
+node_modules/
+src/
+test/
+
+# Build artifacts
+*.tsbuildinfo
+tsconfig.build.json
+tsconfig.json
+
+# Logs (if generated in root)
+logs/
+
+# Misc
+.npmignore
+.gitignore
+

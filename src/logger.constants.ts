@@ -1,0 +1,2 @@
+export const OPEN_LOGGER_OPTIONS = Symbol('OPEN_LOGGER_OPTIONS');
+
