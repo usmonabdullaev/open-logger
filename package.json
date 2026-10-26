@@ -1,6 +1,6 @@
 {
   "name": "open-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A universal, fully configurable NestJS logger built on Winston with daily log rotation.",
   "keywords": [
     "nestjs",
