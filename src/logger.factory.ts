@@ -1,7 +1,7 @@
 import * as path from 'path';
 import * as fs from 'fs';
 import * as winston from 'winston';
-import DailyRotateFile from 'winston-daily-rotate-file';
+import DailyRotateFile = require('winston-daily-rotate-file');
 import { OpenLoggerOptions } from './logger.interfaces';
 
 const DEFAULT_OPTIONS: Required<OpenLoggerOptions> = {
